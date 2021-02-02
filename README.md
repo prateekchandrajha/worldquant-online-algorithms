@@ -1,6 +1,6 @@
 # Worldquant Capstone Project: Developing Online Convex Algorithms For Financial Allocation
 
-Last Updated: 20th January, 2021
+Last Updated: 2nd February, 2021
 
 Online Algorithms For Financial Trading &amp; Evaluation - Worldquant University Capstone Project
 
